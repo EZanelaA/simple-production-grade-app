@@ -17,5 +17,4 @@ body {
     )
     rgb(var(--background-start-rgb));
   color: rgb(var(--foreground-rgb));
-  padding: 1rem;
 }
