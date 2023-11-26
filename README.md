@@ -1,4 +1,4 @@
-# simple-production-grade-app
+# Issue Tracker
 A production grade app for tracking issues.
 
 Features:
